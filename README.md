@@ -2,4 +2,4 @@
 
 ERD
 
-![erd](./erd/erd.png)
+![erd](./erd/erdphoto.png)
